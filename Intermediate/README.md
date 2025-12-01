@@ -1,4 +1,4 @@
-# Intermediate C programs
+# Intermediate-C-programs
 This folder contains intermediate level C Programs.
 ## Programs Included
 ###1. STUDENT RECORD SYSTEM (348 lines)
